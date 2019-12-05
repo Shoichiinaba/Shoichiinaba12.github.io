@@ -1,6 +1,8 @@
-Thanks for downloading this theme!
+Thanks for downloading Basio Group Portfolio!
 
 Theme Name: Reveal
+Name Company: Basio Group.
 Theme URL: https://bootstrapmade.com/reveal-bootstrap-corporate-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Author Theme: BootstrapMade.com
+
+"Thanks bootstrap"
